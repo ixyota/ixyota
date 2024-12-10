@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ixyota
+- 👋 Hi, I’m Yota
 - 👀 I’m interested in mobile developping
 - 🌱 I’m currently learning flutter/dart/python/html/css/js
 - 💞️ I’m looking to collaborate on ...
