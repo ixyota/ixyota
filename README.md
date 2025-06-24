@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile developping
 - 🌱 I’m currently learning flutter/dart/python/html/css/js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: https://t.me/yota_del_rey
+- 📫 How to reach me: https://t.me/ix_yota
 - 😄 Pronouns: he/him/his
 
 <!---
